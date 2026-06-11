@@ -1,0 +1,11 @@
+{
+  "name": "candidature-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0"
+  }
+}
